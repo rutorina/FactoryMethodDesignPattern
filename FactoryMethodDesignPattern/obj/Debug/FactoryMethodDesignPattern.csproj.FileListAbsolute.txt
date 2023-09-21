@@ -1,0 +1,13 @@
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.csproj.AssemblyReference.cache
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.Form1.resources
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.Properties.Resources.resources
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.csproj.GenerateResource.cache
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe.config
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.pdb
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethod.dll
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethod.pdb
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.csproj.CopyComplete
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.exe
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.pdb

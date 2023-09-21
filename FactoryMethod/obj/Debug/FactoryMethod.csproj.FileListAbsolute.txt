@@ -1,0 +1,6 @@
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.dll
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.dll
+E:\!College\KPZ\FactoryMethodDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
